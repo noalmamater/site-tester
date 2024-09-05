@@ -1,4 +1,0 @@
-14/07/2024 00:51:31 - https://www.alura.com.br - online:true
-14/07/2024 00:51:32 - https://random-status-code.herokuapp.com/ - online:false
-14/07/2024 00:51:33 - https://www.caelum.com.br - online:true
-14/07/2024 00:51:33 - https://www.casadocodigo.com.br - online:true
