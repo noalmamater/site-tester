@@ -1,2 +1,2 @@
 # site-tester
- A tester whitch takes a list of sites from a file and test if they are online
+ A tester which takes a list of sites from a file and tests if they are online. Written while learning golang.
